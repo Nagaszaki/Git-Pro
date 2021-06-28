@@ -1,5 +1,6 @@
 'use strict';
 
-function count () {
+function count (param) {
   console.log('28');
+  console.log(param);
 }
